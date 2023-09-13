@@ -2,14 +2,14 @@ import React from "react";
 import {
   MainContainer,
   Container,
-  ContentWrapper,
-  FooterColumn1,
-  FooterColumn2,
-  FooterContentWrapper,
-  FooterColumnTitle,
-  LinkContainer,
-  FooterColumn3,
-  FooterColumn4
+  // ContentWrapper,
+  // FooterColumn1,
+  // FooterColumn2,
+  // FooterContentWrapper,
+  // FooterColumnTitle,
+  // LinkContainer,
+  // FooterColumn3,
+  // FooterColumn4
 } from "./style";
 
 const Footer = () => {

@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 import StepNavigation from "./stepNavigation";
-import { Button } from "../../elements";
+// import { Button } from "../../elements";
 import {
     MainContainer,
     Container,
-    PhotoWrapper,
+    // PhotoWrapper,
     TextWrapper,
-    Img,
+    // Img,
     ContentBox
   } from './style'
 import './index.css';
