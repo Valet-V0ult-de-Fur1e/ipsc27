@@ -1,0 +1,89 @@
+.join-block{-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+font-family: "PT Sans", sans-serif;
+font-size: 14px;
+line-height: 1.28571429;
+color: #444;
+visibility: visible;
+box-sizing: border-box;
+text-align: left;
+background: url("/bundles/artsoftemain/images/join_background.png") no-repeat 0 0;
+margin-top: 92px;
+padding-bottom: 34px;
+position: relative;
+min-height: 950px;}
+
+.step-step1{-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+font-family: "PT Sans", sans-serif;
+font-size: 14px;
+line-height: 1.28571429;
+color: #444;
+visibility: visible;
+text-align: left;
+box-sizing: border-box;
+position: absolute;
+padding-left: 111px;
+width: 490px;
+margin-top: -12px;}
+
+.step-step2{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  font-family: "PT Sans", sans-serif;
+  font-size: 14px;
+  line-height: 1.28571429;
+  color: #444;
+  visibility: visible;
+  text-align: left;
+  box-sizing: border-box;
+  position: absolute;
+  padding-left: 150px;
+  top: 185px;
+  padding-right: 65px;
+  height: 210px;
+}
+
+.step-step3{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  font-family: "PT Sans", sans-serif;
+  font-size: 14px;
+  line-height: 1.28571429;
+  color: #444;
+  visibility: visible;
+  text-align: left;
+  box-sizing: border-box;
+  position: absolute;
+  padding-left: 109px;
+  top: 455px;
+  width: 525px;
+  height: 180px;
+}
+
+.step-step4{
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  font-family: "PT Sans", sans-serif;
+  font-size: 14px;
+  line-height: 1.28571429;
+  color: #444;
+  visibility: visible;
+  text-align: left;
+  box-sizing: border-box;
+  position: absolute;
+  padding-left: 136px;
+  top: 720px;
+  width: 515px;
+  min-height: 70px;
+}
+
+.inline-clickzone{-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+font-family: "PT Sans", sans-serif;
+font-size: 14px;
+line-height: 1.28571429;
+color: #444;
+visibility: visible;
+text-align: left;
+box-sizing: border-box;}
