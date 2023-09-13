@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ddc41e4.css",
+    "main.js": "/static/js/main.3969e6f2.js",
+    "static/js/787.c59ea34a.chunk.js": "/static/js/787.c59ea34a.chunk.js",
+    "static/media/FESAlogo.png": "/static/media/FESAlogo.2f855d3682fc643afdfd.png",
+    "static/media/IPSCktlogo.png": "/static/media/IPSCktlogo.6f9f3e04fe4813e057e5.png",
+    "static/media/ALTAIRlogo.jpg": "/static/media/ALTAIRlogo.dfe32e0a230d448e4426.jpg",
+    "static/media/bg-main.jpg": "/static/media/bg-main.11c06d89a7ff0f969ad6.jpg",
+    "static/media/IPSC-Russia-Logo.png": "/static/media/IPSC-Russia-Logo.222dedc01b2e6013118d.png",
+    "static/media/IPSC-Logo.png": "/static/media/IPSC-Logo.09ed9cfc1cdf68e17c69.png",
+    "index.html": "/index.html",
+    "main.9ddc41e4.css.map": "/static/css/main.9ddc41e4.css.map",
+    "main.3969e6f2.js.map": "/static/js/main.3969e6f2.js.map",
+    "787.c59ea34a.chunk.js.map": "/static/js/787.c59ea34a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ddc41e4.css",
+    "static/js/main.3969e6f2.js"
+  ]
+}
