@@ -21,13 +21,13 @@
 
 .stepWrapper {
   display: flex;
-  margin-bottom: au;
+  margin-bottom: 50px;
 }
 
-.stepBlock .circleWrapper {
+/* .stepBlock .circleWrapper {
   padding: 10px 100px 10px 100px;
   position: relative;
-}
+} */
 
 .selected .circle {
   color: black;
